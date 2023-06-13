@@ -1,0 +1,1 @@
+# German-Rental-Property-Analysis
